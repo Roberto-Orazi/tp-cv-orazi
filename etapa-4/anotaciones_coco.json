@@ -1,0 +1,622 @@
+{
+  "info": {
+    "description": "Anotaciones automaticas de perros",
+    "date_created": "2025-12-10T00:35:04.964108"
+  },
+  "images": [
+    {
+      "id": 1,
+      "file_name": "8.jpg",
+      "width": 1000,
+      "height": 750
+    },
+    {
+      "id": 2,
+      "file_name": "9.jpg",
+      "width": 650,
+      "height": 679
+    },
+    {
+      "id": 3,
+      "file_name": "10.jpg",
+      "width": 420,
+      "height": 280
+    },
+    {
+      "id": 4,
+      "file_name": "4.jpg",
+      "width": 612,
+      "height": 479
+    },
+    {
+      "id": 5,
+      "file_name": "5.jpg",
+      "width": 1000,
+      "height": 750
+    },
+    {
+      "id": 6,
+      "file_name": "7.jpg",
+      "width": 1000,
+      "height": 750
+    },
+    {
+      "id": 7,
+      "file_name": "6.jpg",
+      "width": 1000,
+      "height": 750
+    },
+    {
+      "id": 8,
+      "file_name": "2.jpg",
+      "width": 300,
+      "height": 168
+    },
+    {
+      "id": 9,
+      "file_name": "3.jpg",
+      "width": 4333,
+      "height": 2438
+    },
+    {
+      "id": 10,
+      "file_name": "1.jpg",
+      "width": 1000,
+      "height": 564
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 2,
+      "category_id": 67,
+      "bbox": [
+        128,
+        172,
+        476,
+        471
+      ],
+      "area": 224196,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 3,
+      "category_id": 50,
+      "bbox": [
+        0,
+        23,
+        417,
+        248
+      ],
+      "area": 103416,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 4,
+      "category_id": 17,
+      "bbox": [
+        89,
+        331,
+        88,
+        101
+      ],
+      "area": 8888,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 5,
+      "category_id": 54,
+      "bbox": [
+        225,
+        130,
+        419,
+        611
+      ],
+      "area": 256009,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 5,
+      "category_id": 60,
+      "bbox": [
+        0,
+        154,
+        250,
+        388
+      ],
+      "area": 97000,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 8,
+      "category_id": 45,
+      "bbox": [
+        100,
+        12,
+        87,
+        152
+      ],
+      "area": 13224,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 8,
+      "category_id": 17,
+      "bbox": [
+        2,
+        5,
+        94,
+        161
+      ],
+      "area": 15134,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 9,
+      "category_id": 56,
+      "bbox": [
+        1875,
+        307,
+        731,
+        1741
+      ],
+      "area": 1272671,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 9,
+      "category_id": 17,
+      "bbox": [
+        441,
+        309,
+        845,
+        1800
+      ],
+      "area": 1521000,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 9,
+      "category_id": 56,
+      "bbox": [
+        3507,
+        435,
+        747,
+        1698
+      ],
+      "area": 1268406,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 9,
+      "category_id": 39,
+      "bbox": [
+        2572,
+        260,
+        862,
+        1878
+      ],
+      "area": 1618836,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 9,
+      "category_id": 59,
+      "bbox": [
+        1245,
+        759,
+        699,
+        1353
+      ],
+      "area": 945747,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 10,
+      "category_id": 24,
+      "bbox": [
+        43,
+        226,
+        326,
+        334
+      ],
+      "area": 108884,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 10,
+      "category_id": 24,
+      "bbox": [
+        679,
+        198,
+        257,
+        360
+      ],
+      "area": 92520,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 10,
+      "category_id": 71,
+      "bbox": [
+        384,
+        250,
+        252,
+        308
+      ],
+      "area": 77616,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Afghan",
+      "supercategory": "dog"
+    },
+    {
+      "id": 2,
+      "name": "African Wild Dog",
+      "supercategory": "dog"
+    },
+    {
+      "id": 3,
+      "name": "Airedale",
+      "supercategory": "dog"
+    },
+    {
+      "id": 4,
+      "name": "American  Spaniel",
+      "supercategory": "dog"
+    },
+    {
+      "id": 5,
+      "name": "American Hairless",
+      "supercategory": "dog"
+    },
+    {
+      "id": 6,
+      "name": "American Spaniel",
+      "supercategory": "dog"
+    },
+    {
+      "id": 7,
+      "name": "Basenji",
+      "supercategory": "dog"
+    },
+    {
+      "id": 8,
+      "name": "Basset",
+      "supercategory": "dog"
+    },
+    {
+      "id": 9,
+      "name": "Beagle",
+      "supercategory": "dog"
+    },
+    {
+      "id": 10,
+      "name": "Bearded Collie",
+      "supercategory": "dog"
+    },
+    {
+      "id": 11,
+      "name": "Bermaise",
+      "supercategory": "dog"
+    },
+    {
+      "id": 12,
+      "name": "Bichon Frise",
+      "supercategory": "dog"
+    },
+    {
+      "id": 13,
+      "name": "Blenheim",
+      "supercategory": "dog"
+    },
+    {
+      "id": 14,
+      "name": "Bloodhound",
+      "supercategory": "dog"
+    },
+    {
+      "id": 15,
+      "name": "Bluetick",
+      "supercategory": "dog"
+    },
+    {
+      "id": 16,
+      "name": "Border Collie",
+      "supercategory": "dog"
+    },
+    {
+      "id": 17,
+      "name": "Borzoi",
+      "supercategory": "dog"
+    },
+    {
+      "id": 18,
+      "name": "Boston Terrier",
+      "supercategory": "dog"
+    },
+    {
+      "id": 19,
+      "name": "Boxer",
+      "supercategory": "dog"
+    },
+    {
+      "id": 20,
+      "name": "Bull Mastiff",
+      "supercategory": "dog"
+    },
+    {
+      "id": 21,
+      "name": "Bull Terrier",
+      "supercategory": "dog"
+    },
+    {
+      "id": 22,
+      "name": "Bulldog",
+      "supercategory": "dog"
+    },
+    {
+      "id": 23,
+      "name": "Cairn",
+      "supercategory": "dog"
+    },
+    {
+      "id": 24,
+      "name": "Chihuahua",
+      "supercategory": "dog"
+    },
+    {
+      "id": 25,
+      "name": "Chinese Crested",
+      "supercategory": "dog"
+    },
+    {
+      "id": 26,
+      "name": "Chow",
+      "supercategory": "dog"
+    },
+    {
+      "id": 27,
+      "name": "Clumber",
+      "supercategory": "dog"
+    },
+    {
+      "id": 28,
+      "name": "Cockapoo",
+      "supercategory": "dog"
+    },
+    {
+      "id": 29,
+      "name": "Cocker",
+      "supercategory": "dog"
+    },
+    {
+      "id": 30,
+      "name": "Collie",
+      "supercategory": "dog"
+    },
+    {
+      "id": 31,
+      "name": "Corgi",
+      "supercategory": "dog"
+    },
+    {
+      "id": 32,
+      "name": "Coyote",
+      "supercategory": "dog"
+    },
+    {
+      "id": 33,
+      "name": "Dalmation",
+      "supercategory": "dog"
+    },
+    {
+      "id": 34,
+      "name": "Dhole",
+      "supercategory": "dog"
+    },
+    {
+      "id": 35,
+      "name": "Dingo",
+      "supercategory": "dog"
+    },
+    {
+      "id": 36,
+      "name": "Doberman",
+      "supercategory": "dog"
+    },
+    {
+      "id": 37,
+      "name": "Elk Hound",
+      "supercategory": "dog"
+    },
+    {
+      "id": 38,
+      "name": "French Bulldog",
+      "supercategory": "dog"
+    },
+    {
+      "id": 39,
+      "name": "German Sheperd",
+      "supercategory": "dog"
+    },
+    {
+      "id": 40,
+      "name": "Golden Retriever",
+      "supercategory": "dog"
+    },
+    {
+      "id": 41,
+      "name": "Great Dane",
+      "supercategory": "dog"
+    },
+    {
+      "id": 42,
+      "name": "Great Perenees",
+      "supercategory": "dog"
+    },
+    {
+      "id": 43,
+      "name": "Greyhound",
+      "supercategory": "dog"
+    },
+    {
+      "id": 44,
+      "name": "Groenendael",
+      "supercategory": "dog"
+    },
+    {
+      "id": 45,
+      "name": "Irish Spaniel",
+      "supercategory": "dog"
+    },
+    {
+      "id": 46,
+      "name": "Irish Wolfhound",
+      "supercategory": "dog"
+    },
+    {
+      "id": 47,
+      "name": "Japanese Spaniel",
+      "supercategory": "dog"
+    },
+    {
+      "id": 48,
+      "name": "Komondor",
+      "supercategory": "dog"
+    },
+    {
+      "id": 49,
+      "name": "Labradoodle",
+      "supercategory": "dog"
+    },
+    {
+      "id": 50,
+      "name": "Labrador",
+      "supercategory": "dog"
+    },
+    {
+      "id": 51,
+      "name": "Lhasa",
+      "supercategory": "dog"
+    },
+    {
+      "id": 52,
+      "name": "Malinois",
+      "supercategory": "dog"
+    },
+    {
+      "id": 53,
+      "name": "Maltese",
+      "supercategory": "dog"
+    },
+    {
+      "id": 54,
+      "name": "Mex Hairless",
+      "supercategory": "dog"
+    },
+    {
+      "id": 55,
+      "name": "Newfoundland",
+      "supercategory": "dog"
+    },
+    {
+      "id": 56,
+      "name": "Pekinese",
+      "supercategory": "dog"
+    },
+    {
+      "id": 57,
+      "name": "Pit Bull",
+      "supercategory": "dog"
+    },
+    {
+      "id": 58,
+      "name": "Pomeranian",
+      "supercategory": "dog"
+    },
+    {
+      "id": 59,
+      "name": "Poodle",
+      "supercategory": "dog"
+    },
+    {
+      "id": 60,
+      "name": "Pug",
+      "supercategory": "dog"
+    },
+    {
+      "id": 61,
+      "name": "Rhodesian",
+      "supercategory": "dog"
+    },
+    {
+      "id": 62,
+      "name": "Rottweiler",
+      "supercategory": "dog"
+    },
+    {
+      "id": 63,
+      "name": "Saint Bernard",
+      "supercategory": "dog"
+    },
+    {
+      "id": 64,
+      "name": "Schnauzer",
+      "supercategory": "dog"
+    },
+    {
+      "id": 65,
+      "name": "Scotch Terrier",
+      "supercategory": "dog"
+    },
+    {
+      "id": 66,
+      "name": "Shar_Pei",
+      "supercategory": "dog"
+    },
+    {
+      "id": 67,
+      "name": "Shiba Inu",
+      "supercategory": "dog"
+    },
+    {
+      "id": 68,
+      "name": "Shih-Tzu",
+      "supercategory": "dog"
+    },
+    {
+      "id": 69,
+      "name": "Siberian Husky",
+      "supercategory": "dog"
+    },
+    {
+      "id": 70,
+      "name": "Vizsla",
+      "supercategory": "dog"
+    },
+    {
+      "id": 71,
+      "name": "Yorkie",
+      "supercategory": "dog"
+    }
+  ]
+}

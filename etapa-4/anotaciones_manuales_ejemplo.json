@@ -1,0 +1,26 @@
+{
+  "images": [
+    {
+      "file": "ruta/a/imagen1.jpg",
+      "annotations": [
+        {
+          "bbox": [100, 150, 300, 400],
+          "breed": "Beagle"
+        }
+      ]
+    },
+    {
+      "file": "ruta/a/imagen2.jpg",
+      "annotations": [
+        {
+          "bbox": [50, 80, 250, 350],
+          "breed": "Golden Retriever"
+        },
+        {
+          "bbox": [300, 100, 500, 380],
+          "breed": "Labrador Retriever"
+        }
+      ]
+    }
+  ]
+}

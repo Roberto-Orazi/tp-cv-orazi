@@ -1,0 +1,13 @@
+{
+  "original": {
+    "accuracy": 94.85714285714286,
+    "inference_time_ms": 1466.4585156874223,
+    "size_mb": 42.84907054901123
+  },
+  "dynamic_quantized": {
+    "accuracy": 94.85714285714286,
+    "inference_time_ms": 1254.6278563412754,
+    "size_mb": 42.74569034576416,
+    "speedup": 1.1688394357541876
+  }
+}

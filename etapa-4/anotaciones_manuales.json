@@ -1,0 +1,224 @@
+{
+  "images": [
+    {
+      "file": "/Users/robertoorazi/Repositories/Facultad/tp-cv-orazi/etapa-4/imagenes/convertidas/8.jpg",
+      "annotations": [
+        {
+          "bbox": [
+            389,
+            8,
+            906,
+            457
+          ],
+          "breed": "Shiba Inu"
+        }
+      ]
+    },
+    {
+      "file": "/Users/robertoorazi/Repositories/Facultad/tp-cv-orazi/etapa-4/imagenes/convertidas/9.jpg",
+      "annotations": [
+        {
+          "bbox": [
+            112,
+            138,
+            666,
+            617
+          ],
+          "breed": "Shiba Inu"
+        }
+      ]
+    },
+    {
+      "file": "/Users/robertoorazi/Repositories/Facultad/tp-cv-orazi/etapa-4/imagenes/convertidas/10.jpg",
+      "annotations": [
+        {
+          "bbox": [
+            96,
+            26,
+            331,
+            271
+          ],
+          "breed": "Golden Retriever"
+        }
+      ]
+    },
+    {
+      "file": "/Users/robertoorazi/Repositories/Facultad/tp-cv-orazi/etapa-4/imagenes/convertidas/4.jpg",
+      "annotations": [
+        {
+          "bbox": [
+            68,
+            322,
+            190,
+            447
+          ],
+          "breed": "Chihuahua"
+        },
+        {
+          "bbox": [
+            164,
+            73,
+            581,
+            437
+          ],
+          "breed": "Great Dane"
+        }
+      ]
+    },
+    {
+      "file": "/Users/robertoorazi/Repositories/Facultad/tp-cv-orazi/etapa-4/imagenes/convertidas/5.jpg",
+      "annotations": [
+        {
+          "bbox": [
+            204,
+            129,
+            725,
+            739
+          ],
+          "breed": "Beagle"
+        }
+      ]
+    },
+    {
+      "file": "/Users/robertoorazi/Repositories/Facultad/tp-cv-orazi/etapa-4/imagenes/convertidas/7.jpg",
+      "annotations": []
+    },
+    {
+      "file": "/Users/robertoorazi/Repositories/Facultad/tp-cv-orazi/etapa-4/imagenes/convertidas/6.jpg",
+      "annotations": [
+        {
+          "bbox": [
+            210,
+            19,
+            497,
+            20
+          ],
+          "breed": "Beagle"
+        },
+        {
+          "bbox": [
+            187,
+            259,
+            906,
+            722
+          ],
+          "breed": "Beagle"
+        }
+      ]
+    },
+    {
+      "file": "/Users/robertoorazi/Repositories/Facultad/tp-cv-orazi/etapa-4/imagenes/convertidas/2.jpg",
+      "annotations": [
+        {
+          "bbox": [
+            1,
+            4,
+            101,
+            166
+          ],
+          "breed": "Labrador"
+        },
+        {
+          "bbox": [
+            104,
+            5,
+            188,
+            165
+          ],
+          "breed": "French Bulldog"
+        },
+        {
+          "bbox": [
+            196,
+            6,
+            293,
+            166
+          ],
+          "breed": "Poodle"
+        }
+      ]
+    },
+    {
+      "file": "/Users/robertoorazi/Repositories/Facultad/tp-cv-orazi/etapa-4/imagenes/convertidas/3.jpg",
+      "annotations": [
+        {
+          "bbox": [
+            263,
+            253,
+            1317,
+            2099
+          ],
+          "breed": "Golden Retriever"
+        },
+        {
+          "bbox": [
+            1240,
+            693,
+            1963,
+            2095
+          ],
+          "breed": "Poodle"
+        },
+        {
+          "bbox": [
+            1804,
+            265,
+            2627,
+            2053
+          ],
+          "breed": "Labrador"
+        },
+        {
+          "bbox": [
+            2652,
+            236,
+            3490,
+            2195
+          ],
+          "breed": "German Sheperd"
+        },
+        {
+          "bbox": [
+            3424,
+            408,
+            4301,
+            2146
+          ],
+          "breed": "Collie"
+        }
+      ]
+    },
+    {
+      "file": "/Users/robertoorazi/Repositories/Facultad/tp-cv-orazi/etapa-4/imagenes/convertidas/1.jpg",
+      "annotations": [
+        {
+          "bbox": [
+            9,
+            206,
+            381,
+            558
+          ],
+          "breed": "Chihuahua"
+        },
+        {
+          "bbox": [
+            372,
+            224,
+            648,
+            559
+          ],
+          "breed": "Yorkie"
+        },
+        {
+          "bbox": [
+            652,
+            221,
+            968,
+            559
+          ],
+          "breed": "Chihuahua"
+        }
+      ]
+    }
+  ]
+}
